@@ -3,4 +3,8 @@ Repository to house data on dietary fiber of selected yellow bean samples.
 
 Manuscript (In preparation):
 
-Dietary fiber (AOAC 2011.25) analysis of fast cooking yellow beans (Phaseolus vulgaris L.) with high iron bioavailability.
+Yellow bean (Phaseolus vulgaris L.) germplasm with less dietary fiber have shorter cooking times and more bioavailable iron
+
+Rie Sadohara, Jason A. Wiesinger, Henry J. Thompson, Raymond P. Glahn, Karen A. Cichy
+
+

@@ -1,4 +1,4 @@
-# YBC_Fiber
+# YBC Fiber
 Repository to house data on dietary fiber of selected yellow bean samples.
 
 Manuscript (In preparation):

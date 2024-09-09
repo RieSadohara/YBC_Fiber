@@ -1,8 +1,9 @@
-# YBC_Fiber
+# YBC Fiber
 Repository to house data on dietary fiber of selected yellow bean samples.
 
 Manuscript (In preparation):
 
+<<<<<<< HEAD
 Yellow bean (Phaseolus vulgaris L.) germplasm with less dietary fiber have shorter cooking times and more bioavailable iron.
 
 Rie Sadohara1, Jason A. Wiesinger2, Henry J. Thompson3, Raymond P. Glahn2, Karen A. Cichy1,4*
@@ -17,3 +18,10 @@ Instructions:
 1. Download the contents in the Data directory.
 2. Run the R script "InitialPrep_GitHub.R" to preprae the data. This will create a dataframe called fiberiron. Fiberiron contains data of the 60 accessions used in this study. The script creates some variables for analysis.
 3. After the initial prep operation, fiberiron is ready for further anlaysis. 
+=======
+Yellow bean (Phaseolus vulgaris L.) germplasm with less dietary fiber have shorter cooking times and more bioavailable iron
+
+Rie Sadohara, Jason A. Wiesinger, Henry J. Thompson, Raymond P. Glahn, Karen A. Cichy
+
+
+>>>>>>> 9ca210a6ff253b845048e37104bd3988ecb9e2b8

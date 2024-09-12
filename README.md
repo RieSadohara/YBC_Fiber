@@ -15,5 +15,5 @@ Rie Sadohara1, Jason A. Wiesinger2, Henry J. Thompson3, Raymond P. Glahn2, Karen
 ## Instructions: 
 
 1. Download the contents in the Data directory.
-2. Run the R script "InitialPrep_GitHub.R" to preprae the data. This will create a dataframe called fiberiron. Fiberiron contains data of the 60 accessions used in this study. The script creates some variables for analysis.
-3. After the initial prep operation, fiberiron is ready for further anlaysis. 
+2. Run the R script "InitialPrep_GitHub.R" to prepare the data for analysis. This will create a dataframe called fiberiron. Fiberiron contains data of the 60 accessions used in this study. The script creates some variables for analysis.
+3. After the initial prep operation, fiberiron is ready for further anlaysis.

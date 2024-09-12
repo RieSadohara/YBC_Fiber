@@ -1,7 +1,7 @@
 # YBC Fiber
 Repository to house data on dietary fiber of selected yellow bean samples.
 
-## Manuscript (<i>In preparation</i>):
+## Manuscript (<i>Under review for publication in Current Research in Food Science</i>):
 
 Yellow bean (<i>Phaseolus vulgaris</i> L.) germplasm with less dietary fiber have shorter cooking times and more bioavailable iron.
 
